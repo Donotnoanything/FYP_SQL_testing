@@ -15,9 +15,9 @@ Using Metamorphic Testing to test if sql_injection exist in sql query process
 
 ## Explanation
 
-app.py implements sql_query (to the database have been deployed on my local machine)
-testcase.py includes testcases that generated according to a specific MR
-testing.py checks if MR holds using its co-responding testcase, and then generate a report of results.
+app.py implements sql_query (to the database have been deployed on my local machine)<br />
+testcase.py includes testcases that generated according to a specific MR<br />
+testing.py checks if MR holds using its co-responding testcase, and then generate a report of results.<br />
 
 
 ## Usage
